@@ -1,7 +1,7 @@
 ### Olá eu sou o Kauã ✌️
 
 - 🔭 Atualmente não estou trabalhando
-- 🌱 Estou estudando PHP
+- 🌱 Estou estudando PHP e Java
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
