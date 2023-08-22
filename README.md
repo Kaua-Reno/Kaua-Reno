@@ -1,7 +1,7 @@
 ### Olá eu sou o Kauã ✌️
 
 - 🔭 Atualmente não estou trabalhando
-- 🌱 Estou estudando Python, React e Node.js
+- 🌱 Estou estudando Python, Java, Spring e Vue.js
 - 😄 Pronouns: Ele/Dele
 
 <div align="center">
